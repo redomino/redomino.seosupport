@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<object name="portal_skins">
+    <object name="redomino_seosupport"
+            meta_type="Filesystem Directory View"
+            directory="redomino.seosupport:skins/redomino_seosupport" />
+
+    <skin-path name="*">
+        <layer name="redomino_seosupport"
+               insert-after="custom" />
+    </skin-path>
+</object>
