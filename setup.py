@@ -20,7 +20,7 @@ version = '1.0'
 
 setup(name='redomino.seosupport',
       version=version,
-      description="",
+      description="Installing this plugin you will get a Plone site with the sitemap.xml.gz enabled by default",
       long_description=open("README.txt").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
@@ -29,10 +29,10 @@ setup(name='redomino.seosupport',
         "Framework :: Plone",
         "Programming Language :: Python",
         ],
-      keywords='',
-      author='',
-      author_email='',
-      url='http://svn.plone.org/svn/collective/',
+      keywords='plone seo',
+      author='Davide Moro',
+      author_email='davide.moro@redomino.com',
+      url='https://github.com/redomino/redomino.seosupport',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
       namespace_packages=['redomino'],
