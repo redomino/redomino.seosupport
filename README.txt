@@ -9,5 +9,6 @@ Authors
 -------
 
 * Davide Moro, main author <davide.moro@redomino.com>
+* Giacomo Spettoli, <giacomo.spettoli@redomino.com>
 
 

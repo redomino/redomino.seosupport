@@ -1,16 +1,12 @@
 Changelog
 =========
 
-1.2 (unreleased)
-----------------
-
-- Nothing changed yet.
-
-
 1.1 (2012-04-24)
 ----------------
 
-- Nothing changed yet.
+- First public release
+- Overridden the plonehead.title viewlet to reverse the order of the title's part
+  [giacomos]
 
 
 1.0 (2012-04-02)
